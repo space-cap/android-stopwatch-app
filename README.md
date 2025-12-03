@@ -6,6 +6,9 @@ Jetpack Compose와 Material 3로 제작된 간단한 안드로이드용 스톱�
 
 <!-- 앱의 스크린샷이나 GIF를 여기에 추가하세요. -->
 
+<img width="364" height="793" alt="image" src="https://github.com/user-attachments/assets/c539c652-00a6-4b8f-9fb2-6cddcd912192" />
+
+
 ## 🚀 주요 기능
 
 - **시작, 일시정지, 초기화**: 기본적인 스톱워치 기능입니다.
